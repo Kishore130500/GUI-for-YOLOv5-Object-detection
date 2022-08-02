@@ -1,1 +1,1 @@
-# GUI-for-YOLOv5-Object-detection-
+# GUI-for-YOLOv5-Object-detection
